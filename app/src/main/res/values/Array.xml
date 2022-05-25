@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerModels">
+        <item>CBR1000R</item>
+        <item>CBR500R</item>
+        <item>CBR650R</item>
+        <item>R1</item>
+        <item>R7</item>
+        <item>RS660</item>
+        <item>RSV4</item>
+        <item>PANIGALE</item>
+        <item>MONSTER</item>
+        <item>MT07</item>
+        <item>MT09</item>
+    </string-array>
+</resources>
